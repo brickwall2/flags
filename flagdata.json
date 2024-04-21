@@ -1,9 +1,12 @@
 {
-    "DFlagForceDebugMode": false,
-    "DFlagForceNoRun": true,
-    "FlagForceFeatures": {},
-    "FlagForceInternalFeatures": {},
+    "DFlagForceDebugMode": true,
+    "DFlagForceNoRun": false,
+    "FlagForceFeatures": [],
+    "FlagForceInternalFeatures": [],
     "DFlagWarnIfNotUpToDate": true,
-    "FlagForcePrintMessage": {},
-    "FlagForceWarnMessage": {}
+    "FlagForcePrintMessage": [],
+    "FlagForceWarnMessage": [],
+    "FlagSetUtilizePlayerCollision": false,
+    "DFlagStrongWarnWhenStart": [],
+    "FlagForceInstanceLocation": ["ServerScriptService"]
 }
