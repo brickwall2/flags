@@ -5,5 +5,5 @@
     "FlagForceInternalFeatures": {},
     "DFlagWarnIfNotUpToDate": true,
     "FlagForcePrintMessage": {},
-    "FlagForceWarnMessage": {},
+    "FlagForceWarnMessage": {}
 }
