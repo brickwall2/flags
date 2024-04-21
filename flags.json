@@ -1,11 +1,9 @@
 {
-    "DFlagForceUpdate": false,
-    "DFlagForceDebugMode": true,
+    "DFlagForceDebugMode": false,
     "DFlagForceNoRun": false,
     "FlagForceFeatures": {},
     "FlagForceInternalFeatures": {},
     "DFlagWarnIfNotUpToDate": true,
     "FlagForcePrintMessage": {},
     "FlagForceWarnMessage": {},
-    "FlagAddBetaBuildFiles": false
 }
