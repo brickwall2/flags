@@ -1,6 +1,6 @@
 {
     "DFlagForceDebugMode": false,
-    "DFlagForceNoRun": false,
+    "DFlagForceNoRun": true,
     "FlagForceFeatures": {},
     "FlagForceInternalFeatures": {},
     "DFlagWarnIfNotUpToDate": true,
